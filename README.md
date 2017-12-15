@@ -3,7 +3,7 @@
 Functions help to automate repetitive tasks and enable you to reuse your code. 
 Write your own function that accepts the current month as a parameter and printsoneofthefollowing responses,
 depending on whether it is July or not:
----
+
 
 ```
 It's July, so it can get really hot.
